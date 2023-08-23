@@ -1,6 +1,6 @@
 ﻿namespace Mod3_Ex6
 {
-    class Program
+    class Run
     {
         static void Main(string[] args)
         {
